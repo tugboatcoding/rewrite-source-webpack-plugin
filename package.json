@@ -1,0 +1,23 @@
+{
+  "name": "rewrite-source-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Webpack Plugin to rewrite the source before compilation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tugboatcoding/rewrite-source-webpack-plugin.git"
+  },
+  "author": "Tugboat Coding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tugboatcoding/rewrite-source-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/tugboatcoding/rewrite-source-webpack-plugin#readme",
+  "publishConfig": {
+    "access": "public",
+    "scope": ""
+  }
+}
