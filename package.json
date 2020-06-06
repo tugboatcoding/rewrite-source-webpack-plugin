@@ -1,6 +1,6 @@
 {
   "name": "rewrite-source-webpack-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webpack Plugin to rewrite the source before compilation",
   "main": "src/index.js",
   "scripts": {
